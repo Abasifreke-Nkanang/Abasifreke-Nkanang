@@ -1,6 +1,4 @@
-<p align="middle">
-  <img width="600" src="https://tenor.com/view/python3-coding-python-ddsry-code-gif-19217575"/>
-</p>
+
 
 ### Hi there 👋
 
